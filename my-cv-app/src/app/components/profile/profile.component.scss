@@ -1,0 +1,52 @@
+.profile{
+height: 400px;
+  width: 65%;
+  color: white;
+  position: relative;
+  z-index: 5;
+  margin-left: 17%;
+  margin-top: 220px;
+  display: flex;
+  background-color: black;
+  font-family: 'Lato', sans-serif;
+  -webkit-box-shadow:0px 0px 22px 24px #222222 ;
+  -moz-box-shadow:0px 0px 22px 24px #222222 ;
+  box-shadow:0px 0px 22px 24px #222222 ;
+  border-radius: 5px;
+  -webkit-animation:flipinx 3s ease 0s 1 normal;
+  -moz-animation:flipinx 3s ease 0s 1 normal;
+  -ms-animation:flipinx 3s ease 0s 1 normal;
+  animation:flipinx 3s ease 0s 1 normal;
+}
+
+@-webkit-keyframes flipinx {
+  0%{ opacity: 0; -webkit-transform: perspective(400px) rotateX(0deg); transform: perspective(400px) rotateX(90deg); }
+  40%{ -webkit-transform: perspective(400px) rotateX(0deg); transform: perspective(400px) rotateX(-10deg); }
+  70%{ -webkit-transform: perspective(400px) rotateX(0deg); transform: perspective(400px) rotateX(10deg); }
+  100%{ opacity: 1; -webkit-transform: perspective(400px) rotateX(0deg); transform: perspective(400px) rotateX(0deg); }
+}
+
+@keyframes flipinx {
+  0%{ opacity: 0; transform: perspective(400px) rotateX(90deg); }
+  40%{ transform: perspective(400px) rotateX(-10deg); }
+  70%{ transform: perspective(400px) rotateX(10deg); }
+  100%{ opacity: 1; transform: perspective(400px) rotateX(0deg); }
+}
+
+.information{
+   padding: 20px;
+
+}
+button{
+  background-color: black;
+  color: white;
+  border: .5px solid white;
+  cursor: pointer;
+  &:hover{
+    transform: scale(1.2);
+    color: black;
+    background-color: white;
+    border: .5px solid black;
+    transition: .5s;
+  }
+}

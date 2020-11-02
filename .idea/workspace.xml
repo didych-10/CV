@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="60cab2b5-3d07-48ae-9a94-e4fc24cdc20b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/CV.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-cv-app/.browserslistrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-cv-app/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-cv-app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-cv-app/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-cv-app/angular.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-cv-app/e2e/protractor.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-cv-app/e2e/src/app.e2e-spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-cv-app/e2e/src/app.po.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-cv-app/e2e/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-cv-app/karma.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-cv-app/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-cv-app/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-cv-app/src/app/app-routing.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-cv-app/src/app/app.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-cv-app/src/app/app.component.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-cv-app/src/app/app.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-cv-app/src/app/app.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-cv-app/src/app/app.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-cv-app/src/app/components/profile/profile.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-cv-app/src/app/components/profile/profile.component.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-cv-app/src/app/components/profile/profile.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-cv-app/src/app/components/profile/profile.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-cv-app/src/app/components/skills/skills.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-cv-app/src/app/components/skills/skills.component.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-cv-app/src/app/components/skills/skills.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-cv-app/src/app/components/skills/skills.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-cv-app/src/assets/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-cv-app/src/environments/environment.prod.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-cv-app/src/environments/environment.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-cv-app/src/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-cv-app/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-cv-app/src/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-cv-app/src/polyfills.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-cv-app/src/styles.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-cv-app/src/test.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-cv-app/tsconfig.app.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-cv-app/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-cv-app/tsconfig.spec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-cv-app/tslint.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1jc4oCm0t0l2Xoct3znuuFCGLUl" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/my-cv-app/node_modules/typescript/lib" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/my-cv-app/src/assets/img" />
+      <recent name="$PROJECT_DIR$/my-cv-app/src/app/images" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="60cab2b5-3d07-48ae-9a94-e4fc24cdc20b" name="Default Changelist" comment="" />
+      <created>1604090223400</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604090223400</updated>
+      <workItem from="1604090226995" duration="501000" />
+      <workItem from="1604309779372" duration="3775000" />
+      <workItem from="1604318914866" duration="7175000" />
+    </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <created>1604328888467</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1604328888467</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="290" y="23" width="785" height="677" key="CommitChangelistDialog2" timestamp="1604328887784">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="290" y="23" width="785" height="677" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1604328887784" />
+    <state x="283" y="124" key="Vcs.Push.Dialog.v2" timestamp="1604328895722">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="283" y="124" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1604328895722" />
+  </component>
+</project>
