@@ -13,24 +13,6 @@ height: 400px;
   -moz-box-shadow:0px 0px 22px 24px #222222 ;
   box-shadow:0px 0px 22px 24px #222222 ;
   border-radius: 5px;
-  -webkit-animation:flipinx 3s ease 0s 1 normal;
-  -moz-animation:flipinx 3s ease 0s 1 normal;
-  -ms-animation:flipinx 3s ease 0s 1 normal;
-  animation:flipinx 3s ease 0s 1 normal;
-}
-
-@-webkit-keyframes flipinx {
-  0%{ opacity: 0; -webkit-transform: perspective(400px) rotateX(0deg); transform: perspective(400px) rotateX(90deg); }
-  40%{ -webkit-transform: perspective(400px) rotateX(0deg); transform: perspective(400px) rotateX(-10deg); }
-  70%{ -webkit-transform: perspective(400px) rotateX(0deg); transform: perspective(400px) rotateX(10deg); }
-  100%{ opacity: 1; -webkit-transform: perspective(400px) rotateX(0deg); transform: perspective(400px) rotateX(0deg); }
-}
-
-@keyframes flipinx {
-  0%{ opacity: 0; transform: perspective(400px) rotateX(90deg); }
-  40%{ transform: perspective(400px) rotateX(-10deg); }
-  70%{ transform: perspective(400px) rotateX(10deg); }
-  100%{ opacity: 1; transform: perspective(400px) rotateX(0deg); }
 }
 
 .information{

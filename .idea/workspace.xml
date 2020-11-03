@@ -2,50 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="60cab2b5-3d07-48ae-9a94-e4fc24cdc20b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/CV.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-cv-app/.browserslistrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-cv-app/.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-cv-app/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-cv-app/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-cv-app/angular.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-cv-app/e2e/protractor.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-cv-app/e2e/src/app.e2e-spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-cv-app/e2e/src/app.po.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-cv-app/e2e/tsconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-cv-app/karma.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-cv-app/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-cv-app/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-cv-app/src/app/app-routing.module.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-cv-app/src/app/app.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-cv-app/src/app/app.component.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-cv-app/src/app/app.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-cv-app/src/app/app.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-cv-app/src/app/app.module.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-cv-app/src/app/components/profile/profile.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-cv-app/src/app/components/profile/profile.component.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-cv-app/src/app/components/profile/profile.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-cv-app/src/app/components/profile/profile.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-cv-app/src/app/components/skills/skills.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-cv-app/src/app/components/skills/skills.component.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-cv-app/src/app/components/skills/skills.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-cv-app/src/app/components/skills/skills.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-cv-app/src/assets/.gitkeep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-cv-app/src/environments/environment.prod.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-cv-app/src/environments/environment.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-cv-app/src/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-cv-app/src/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-cv-app/src/main.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-cv-app/src/polyfills.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-cv-app/src/styles.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-cv-app/src/test.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-cv-app/tsconfig.app.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-cv-app/tsconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-cv-app/tsconfig.spec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-cv-app/tslint.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-cv-app/src/assets/cv/MyCV.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-cv-app/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/my-cv-app/src/app/app.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-cv-app/src/app/app.component.scss" beforeDir="false" afterPath="$PROJECT_DIR$/my-cv-app/src/app/app.component.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-cv-app/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/my-cv-app/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-cv-app/src/app/components/profile/profile.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/my-cv-app/src/app/components/profile/profile.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-cv-app/src/app/components/profile/profile.component.scss" beforeDir="false" afterPath="$PROJECT_DIR$/my-cv-app/src/app/components/profile/profile.component.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,6 +33,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/my-cv-app/src/assets/cv" />
       <recent name="$PROJECT_DIR$/my-cv-app/src/assets/img" />
       <recent name="$PROJECT_DIR$/my-cv-app/src/app/images" />
     </key>
@@ -85,6 +49,9 @@
       <workItem from="1604090226995" duration="501000" />
       <workItem from="1604309779372" duration="3775000" />
       <workItem from="1604318914866" duration="7175000" />
+      <workItem from="1604329015944" duration="184000" />
+      <workItem from="1604334067260" duration="419000" />
+      <workItem from="1604435076742" duration="1873000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1604328888467</created>
@@ -93,7 +60,14 @@
       <option name="project" value="LOCAL" />
       <updated>1604328888467</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="first commit">
+      <created>1604329064954</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1604329064954</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -104,13 +78,13 @@
     <option name="LAST_COMMIT_MESSAGE" value="first commit" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="290" y="23" width="785" height="677" key="CommitChangelistDialog2" timestamp="1604328887784">
+    <state x="290" y="23" width="785" height="677" key="CommitChangelistDialog2" timestamp="1604329064583">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="290" y="23" width="785" height="677" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1604328887784" />
-    <state x="283" y="124" key="Vcs.Push.Dialog.v2" timestamp="1604328895722">
+    <state x="290" y="23" width="785" height="677" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1604329064583" />
+    <state x="283" y="124" key="Vcs.Push.Dialog.v2" timestamp="1604329076153">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="283" y="124" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1604328895722" />
+    <state x="283" y="124" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1604329076153" />
   </component>
 </project>
