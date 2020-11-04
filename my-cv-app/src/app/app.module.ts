@@ -6,13 +6,19 @@ import { AppComponent } from './app.component';
 import { ProfileComponent } from './components/profile/profile.component';
 import { SkillsComponent } from './components/skills/skills.component';
 import { NavigationComponent } from './components/navigation/navigation.component';
+import { EducationComponent } from './components/education/education.component';
+import { InfoComponent } from './components/info/info.component';
+import { PortfolioComponent } from './components/portfolio/portfolio.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     ProfileComponent,
     SkillsComponent,
-    NavigationComponent
+    NavigationComponent,
+    EducationComponent,
+    InfoComponent,
+    PortfolioComponent
   ],
   imports: [
     BrowserModule,
