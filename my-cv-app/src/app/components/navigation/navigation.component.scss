@@ -1,7 +1,7 @@
 
 ul {
   position: absolute;
-  top: 100%;
+  top: 97%;
   left: 50%;
   transform: translate(-50%, -50%);
   margin: 0;
@@ -59,4 +59,7 @@ ul li a:hover::before {
     height: 100%;
     z-index: -1;
   }
+}
+.footer {
+  height: 15vh;
 }

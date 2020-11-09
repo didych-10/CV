@@ -6,6 +6,24 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./portfolio.component.scss']
 })
 export class PortfolioComponent implements OnInit {
+  projects: any[] = [
+    {
+      name: 'Layout',
+      url: '/assets/img/layout.jpg'
+    },
+
+    {
+      name: 'Chat',
+      url: '/assets/img/chat.jpg'
+
+    },
+    {
+      name: 'Lending Page',
+      url: '/assets/img/lending.jpg'
+    }
+
+  ];
+  some: number = 0;
 
   constructor() { }
 
@@ -13,3 +31,4 @@ export class PortfolioComponent implements OnInit {
   }
 
 }
+

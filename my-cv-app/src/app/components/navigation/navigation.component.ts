@@ -11,5 +11,13 @@ export class NavigationComponent implements OnInit {
 
   ngOnInit(): void {
   }
+  scrollTo() {
+    let footer = document.getElementById('footer');
+    window.scroll({
+      left: 0,
+      top: footer.offsetTop,
+      behavior: 'smooth'
+    })
+  }
 
 }

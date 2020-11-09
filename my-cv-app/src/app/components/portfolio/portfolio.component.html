@@ -1,1 +1,8 @@
-<p>portfolio works!</p>
+<div style="display: flex; justify-content: space-between;">
+  <div class="main">
+    <div class="project-item" *ngFor="let project of projects">
+      <img src="{{project.url}}" alt="item"><br>
+      <p style="text-align: center; font-size: 20px;">{{project.name}}</p>
+    </div>
+  </div>
+</div>

@@ -1,6 +1,5 @@
 import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
-
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { ProfileComponent } from './components/profile/profile.component';
@@ -9,6 +8,7 @@ import { NavigationComponent } from './components/navigation/navigation.componen
 import { EducationComponent } from './components/education/education.component';
 import { InfoComponent } from './components/info/info.component';
 import { PortfolioComponent } from './components/portfolio/portfolio.component';
+import { PortfolioItemComponent } from './components/portfolio-item/portfolio-item.component';
 
 @NgModule({
   declarations: [
@@ -18,7 +18,8 @@ import { PortfolioComponent } from './components/portfolio/portfolio.component';
     NavigationComponent,
     EducationComponent,
     InfoComponent,
-    PortfolioComponent
+    PortfolioComponent,
+    PortfolioItemComponent
   ],
   imports: [
     BrowserModule,
