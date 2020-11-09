@@ -1,18 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="60cab2b5-3d07-48ae-9a94-e4fc24cdc20b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/my-cv-app/src/app/components/portfolio-item/portfolio-item.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-cv-app/src/app/components/portfolio-item/portfolio-item.component.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-cv-app/src/app/components/portfolio-item/portfolio-item.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-cv-app/src/app/components/portfolio-item/portfolio-item.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/ng2-smooth-scroll/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/ng2-smooth-scroll/bower.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/ng2-smooth-scroll/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/ng2-smooth-scroll/lib/ng2-SmoothScroll.directive.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/ng2-smooth-scroll/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+    <list default="true" id="60cab2b5-3d07-48ae-9a94-e4fc24cdc20b" name="Default Changelist" comment="add components and smooth scrolling">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-cv-app/src/app/components/portfolio/portfolio.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/my-cv-app/src/app/components/portfolio/portfolio.component.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +54,7 @@
       <workItem from="1604656885368" duration="522000" />
       <workItem from="1604658823880" duration="5851000" />
       <workItem from="1604867390317" duration="2043000" />
-      <workItem from="1604925925556" duration="2392000" />
+      <workItem from="1604925925556" duration="2562000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1604328888467</created>
@@ -107,7 +98,14 @@
       <option name="project" value="LOCAL" />
       <updated>1604932543611</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="add components and smooth scrolling">
+      <created>1604934118505</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1604934118505</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -121,14 +119,14 @@
     <option name="LAST_COMMIT_MESSAGE" value="add components and smooth scrolling" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="290" y="23" width="785" height="677" key="CommitChangelistDialog2" timestamp="1604932543296">
+    <state x="290" y="23" width="785" height="677" key="CommitChangelistDialog2" timestamp="1604934232476">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="290" y="23" width="785" height="677" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1604932543296" />
-    <state x="283" y="124" key="Vcs.Push.Dialog.v2" timestamp="1604932548251">
+    <state x="290" y="23" width="785" height="677" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1604934232476" />
+    <state x="283" y="124" key="Vcs.Push.Dialog.v2" timestamp="1604934127754">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="283" y="124" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1604932548251" />
+    <state x="283" y="124" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1604934127754" />
     <state x="496" y="305" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1604441963690">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
