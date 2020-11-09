@@ -1,11 +1,8 @@
-
+.nav{
+  margin: auto;
+  width: 50%;
+}
 ul {
-  position: absolute;
-  top: 97%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  margin: 0;
-  padding: 0;
   display: flex;
 }
 ul li {
@@ -60,6 +57,4 @@ ul li a:hover::before {
     z-index: -1;
   }
 }
-.footer {
-  height: 15vh;
-}
+
