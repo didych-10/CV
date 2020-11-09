@@ -2,22 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="60cab2b5-3d07-48ae-9a94-e4fc24cdc20b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/my-cv-app/src/assets/img/chat.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-cv-app/src/assets/img/layout.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-cv-app/src/assets/img/lending.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-cv-app/src/app/components/portfolio-item/portfolio-item.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-cv-app/src/app/components/portfolio-item/portfolio-item.component.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-cv-app/src/app/components/portfolio-item/portfolio-item.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-cv-app/src/app/components/portfolio-item/portfolio-item.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/ng2-smooth-scroll/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/ng2-smooth-scroll/bower.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/ng2-smooth-scroll/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/ng2-smooth-scroll/lib/ng2-SmoothScroll.directive.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/ng2-smooth-scroll/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-cv-app/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/my-cv-app/src/app/app.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-cv-app/src/app/app.component.scss" beforeDir="false" afterPath="$PROJECT_DIR$/my-cv-app/src/app/app.component.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-cv-app/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/my-cv-app/src/app/app.module.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-cv-app/src/app/components/education/education.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/my-cv-app/src/app/components/education/education.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-cv-app/src/app/components/info/info.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/my-cv-app/src/app/components/info/info.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-cv-app/src/app/components/navigation/navigation.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/my-cv-app/src/app/components/navigation/navigation.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-cv-app/src/app/components/navigation/navigation.component.scss" beforeDir="false" afterPath="$PROJECT_DIR$/my-cv-app/src/app/components/navigation/navigation.component.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-cv-app/src/app/components/navigation/navigation.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/my-cv-app/src/app/components/navigation/navigation.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-cv-app/src/app/components/portfolio/portfolio.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/my-cv-app/src/app/components/portfolio/portfolio.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-cv-app/src/app/components/portfolio/portfolio.component.scss" beforeDir="false" afterPath="$PROJECT_DIR$/my-cv-app/src/app/components/portfolio/portfolio.component.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-cv-app/src/app/components/portfolio/portfolio.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/my-cv-app/src/app/components/portfolio/portfolio.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-cv-app/src/app/components/skills/skills.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/my-cv-app/src/app/components/skills/skills.component.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +63,7 @@
       <workItem from="1604656885368" duration="522000" />
       <workItem from="1604658823880" duration="5851000" />
       <workItem from="1604867390317" duration="2043000" />
-      <workItem from="1604925925556" duration="2057000" />
+      <workItem from="1604925925556" duration="2392000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1604328888467</created>
@@ -105,7 +100,14 @@
       <option name="project" value="LOCAL" />
       <updated>1604503125917</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="add components and smooth scrolling">
+      <created>1604932543611</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1604932543611</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -115,17 +117,18 @@
     <MESSAGE value="first commit" />
     <MESSAGE value="remove animation, add navigation component" />
     <MESSAGE value="styled navigation, add routing" />
-    <option name="LAST_COMMIT_MESSAGE" value="styled navigation, add routing" />
+    <MESSAGE value="add components and smooth scrolling" />
+    <option name="LAST_COMMIT_MESSAGE" value="add components and smooth scrolling" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="290" y="23" width="785" height="677" key="CommitChangelistDialog2" timestamp="1604503125584">
+    <state x="290" y="23" width="785" height="677" key="CommitChangelistDialog2" timestamp="1604932543296">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="290" y="23" width="785" height="677" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1604503125584" />
-    <state x="283" y="124" key="Vcs.Push.Dialog.v2" timestamp="1604503133142">
+    <state x="290" y="23" width="785" height="677" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1604932543296" />
+    <state x="283" y="124" key="Vcs.Push.Dialog.v2" timestamp="1604932548251">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="283" y="124" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1604503133142" />
+    <state x="283" y="124" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1604932548251" />
     <state x="496" y="305" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1604441963690">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
