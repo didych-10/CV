@@ -1,5 +1,7 @@
-<div class="nav">
-  <ul>
+<input type="checkbox" id="menu-checkbox">
+<div class="nav" role="navigation">
+  <label style="font-size: 30px; position: relative; right: 100px" for="menu-checkbox" class="toggle-button" data-open="☰" data-close="×" onclick></label>
+  <ul class="main-menu">
     <li><a routerLink="/" (click)="scrollTo()" href="#">Skills</a></li>
     <li><a routerLink="/education" (click)="scrollTo()" href="#">Education</a></li>
     <li><a routerLink="/portfolio" (click)="scrollTo()" href="#">My projects</a></li>

@@ -17,6 +17,8 @@ height: 400px;
 
 .information{
    padding: 20px;
+  max-width: 60%;
+  height: 100%;
 
 }
 button{
@@ -30,5 +32,50 @@ button{
     background-color: white;
     border: .5px solid black;
     transition: .5s;
+  }
+}
+@media only screen and (max-width: 1200px) {
+.profile{
+width: 80%;
+  margin-left: 10%;
+}
+
+
+}
+@media only screen and (min-width: 768px) and (max-width: 960px){
+  .profile{
+    width: 100%;
+    margin-left: 0;
+
+  }
+}
+@media only screen and (max-width: 767px){
+
+  .profile{
+    height: 200px;
+    min-width: 100%;
+    margin: auto;
+
+
+    box-shadow: none;
+    .information{
+      width: 60%;
+      font-size: .5em;
+
+    }
+
+  }
+}
+@media only screen and (max-width: 480px){
+  .profile{
+    border-radius: 0;
+  }
+  img{
+display: none;
+  }
+  .information{
+    min-width: 100%;
+    font-size: .5em;
+
   }
 }

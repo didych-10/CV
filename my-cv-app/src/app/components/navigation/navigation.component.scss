@@ -1,7 +1,7 @@
 .nav{
   margin-left: 27%;
   margin-top: 30px;
-  width: 45%;
+  width: 50%;
 }
 ul {
   display: flex;
@@ -58,4 +58,66 @@ ul li a:hover::before {
     z-index: -1;
   }
 }
+#menu-checkbox{
+  display: none;
+}
 
+@media only screen and (max-width: 1200px){
+ .nav {
+   width: 70%;
+   margin-left: 20%;
+ }
+}
+@media only screen and (max-width: 900px) {
+  .nav {
+    width: 100%;
+margin-left: 0;
+  }
+}
+@media only screen and (max-width: 768px){
+
+  .nav{
+    margin-left: 20%;
+  }
+  ul li a{
+    font-size: 1em;
+  }
+}
+@media only screen and (max-width: 540px) {
+  .main-menu{
+display: none;
+  }
+  .main-menu{
+    li{
+      width: 100%;
+      display: block;
+    }
+    a{
+      display: block;
+      padding: 8px;
+    }
+  }
+  .toggle-button{
+    text-align: center;
+    display: block;
+    cursor: pointer;
+    &:after{
+      content: attr(data-open);
+      display: block;
+    }
+
+  }
+#menu-checkbox:checked + .nav[role="navigation"] .main-menu{
+  display: block;
+}
+  #menu-checkbox:checked + .nav[role="navigation"] .toggle-button:after{
+    content: attr(data-close);
+  }
+.main-menu{
+margin-right: 39%;
+
+  li{
+    text-align: center;
+  }
+}
+}

@@ -1,35 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="60cab2b5-3d07-48ae-9a94-e4fc24cdc20b" name="Default Changelist" comment="add all component">
-      <change afterPath="$PROJECT_DIR$/my-cv-app/src/assets/cv/MY-CV.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-cv-app/src/assets/img/angular.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-cv-app/src/assets/img/bootstrap.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-cv-app/src/assets/img/css.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-cv-app/src/assets/img/detail.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-cv-app/src/assets/img/eng.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-cv-app/src/assets/img/git.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-cv-app/src/assets/img/hand.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-cv-app/src/assets/img/html.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-cv-app/src/assets/img/jsts.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-cv-app/src/assets/img/logos.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-cv-app/src/assets/img/nodejs.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-cv-app/src/assets/img/politeh.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-cv-app/src/assets/img/sql.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-cv-app/src/assets/img/team.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-cv-app/src/assets/img/time.jpg" afterDir="false" />
+    <list default="true" id="60cab2b5-3d07-48ae-9a94-e4fc24cdc20b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-cv-app/src/app/components/education/education.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/my-cv-app/src/app/components/education/education.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-cv-app/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/my-cv-app/src/app/app.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-cv-app/src/app/app.component.scss" beforeDir="false" afterPath="$PROJECT_DIR$/my-cv-app/src/app/app.component.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/my-cv-app/src/app/components/education/education.component.scss" beforeDir="false" afterPath="$PROJECT_DIR$/my-cv-app/src/app/components/education/education.component.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-cv-app/src/app/components/info/info.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/my-cv-app/src/app/components/info/info.component.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/my-cv-app/src/app/components/info/info.component.scss" beforeDir="false" afterPath="$PROJECT_DIR$/my-cv-app/src/app/components/info/info.component.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-cv-app/src/app/components/navigation/navigation.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/my-cv-app/src/app/components/navigation/navigation.component.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/my-cv-app/src/app/components/navigation/navigation.component.scss" beforeDir="false" afterPath="$PROJECT_DIR$/my-cv-app/src/app/components/navigation/navigation.component.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-cv-app/src/app/components/portfolio-item/portfolio-item.component.scss" beforeDir="false" afterPath="$PROJECT_DIR$/my-cv-app/src/app/components/portfolio-item/portfolio-item.component.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-cv-app/src/app/components/portfolio/portfolio.component.scss" beforeDir="false" afterPath="$PROJECT_DIR$/my-cv-app/src/app/components/portfolio/portfolio.component.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/my-cv-app/src/app/components/profile/profile.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/my-cv-app/src/app/components/profile/profile.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-cv-app/src/app/components/skills/skills.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/my-cv-app/src/app/components/skills/skills.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-cv-app/src/app/components/profile/profile.component.scss" beforeDir="false" afterPath="$PROJECT_DIR$/my-cv-app/src/app/components/profile/profile.component.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/my-cv-app/src/app/components/skills/skills.component.scss" beforeDir="false" afterPath="$PROJECT_DIR$/my-cv-app/src/app/components/skills/skills.component.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-cv-app/src/app/components/skills/skills.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/my-cv-app/src/app/components/skills/skills.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-cv-app/src/assets/cv/MyCV.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-cv-app/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/my-cv-app/src/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,7 +64,10 @@
       <workItem from="1604656885368" duration="522000" />
       <workItem from="1604658823880" duration="5851000" />
       <workItem from="1604867390317" duration="2043000" />
-      <workItem from="1604925925556" duration="13912000" />
+      <workItem from="1604925925556" duration="14101000" />
+      <workItem from="1605260670944" duration="12725000" />
+      <workItem from="1605282094043" duration="89000" />
+      <workItem from="1605282197165" duration="2504000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1604328888467</created>
@@ -145,7 +132,14 @@
       <option name="project" value="LOCAL" />
       <updated>1604936227388</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="add all component">
+      <created>1605200078036</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1605200078036</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -165,14 +159,14 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="421" y="138" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.768@0.0.1366.768" timestamp="1605197675801" />
-    <state x="290" y="23" width="785" height="677" key="CommitChangelistDialog2" timestamp="1605199836365">
+    <state x="290" y="23" width="785" height="677" key="CommitChangelistDialog2" timestamp="1605200077699">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="290" y="23" width="785" height="677" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1605199836365" />
-    <state x="283" y="124" key="Vcs.Push.Dialog.v2" timestamp="1604936235258">
+    <state x="290" y="23" width="785" height="677" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1605200077699" />
+    <state x="283" y="124" key="Vcs.Push.Dialog.v2" timestamp="1605200104591">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="283" y="124" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1604936235258" />
+    <state x="283" y="124" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1605200104591" />
     <state x="496" y="305" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1604441963690">
       <screen x="0" y="0" width="1366" height="768" />
     </state>

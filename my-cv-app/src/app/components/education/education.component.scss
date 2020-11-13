@@ -18,3 +18,12 @@
   background: url('/assets/img/logos.jpg') no-repeat;
   background-size: cover;
 }
+@media only screen and (max-width: 1200px){
+  .logos {
+    p{
+      display: block;
+      margin-bottom: 55%;
+    }
+
+  }
+}
