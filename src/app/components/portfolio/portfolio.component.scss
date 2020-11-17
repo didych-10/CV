@@ -1,16 +1,11 @@
 .project-item{
   width: 30%;
   height: 200px;
-
+cursor: pointer;
   border-radius: 10px;
   font-size: 0.8em;
   margin-top: 70px;
 
-  &:hover{
-    transform: scale(1.2);
-    margin: auto;
-    transition: .5s;
-  }
 }
 .main {
   display: flex;
