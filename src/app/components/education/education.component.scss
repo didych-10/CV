@@ -9,14 +9,15 @@
   background-size: cover;
 }
 .logos{
-  height: 100vh;
+  height: 100%;
+  width: 100%;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
   text-align: center;
   background: url('/assets/img/logos.jpg') no-repeat;
-  background-size: cover;
+  background-size: 100%;
 }
 @media only screen and (max-width: 1200px){
   .logos {
@@ -27,3 +28,5 @@
 
   }
 }
+
+
