@@ -8,6 +8,10 @@ import { Component, OnInit } from '@angular/core';
 export class PortfolioComponent implements OnInit {
   projects: any[] = [
     {
+      name: 'ToВ "Elserv" (freelance project)',
+      url: '/assets/img/elserv.jpg'
+    },
+      {
       name: 'Layout',
       url: '/assets/img/layout.jpg'
     },

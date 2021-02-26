@@ -33,7 +33,7 @@ export class SkillsComponent implements OnInit {
 
     },
     {
-      name: 'MeSQL (basic)',
+      name: 'MySQL (basic)',
       url: '/assets/img/sql.jpg'
 
     },
